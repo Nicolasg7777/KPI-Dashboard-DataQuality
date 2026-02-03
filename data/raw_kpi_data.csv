@@ -1,0 +1,8 @@
+order_id,account,region,order_date,units,unit_price
+1,Acme,East,2026-01-01,10,12.5
+2,Acme,East,2026-01-02,,-5
+3,Bravo,West,2026-01-02,3,25
+3,Bravo,West,2026-01-02,3,25
+4,Delta,South,2026-01-05,2000,19
+5,Echo,North,2026-01-07,4,abc
+
